@@ -1,8 +1,8 @@
-#Hello
+# Hello
 I am **Marco**. I am a year 2 Computer Science student. I am new in GitHub. Hope I can finish this assignment easily. I am finding intern. Hope I
 can find intern before summer.
 
-##Programming Skills
+## Programming Skills
 
 * C++
 * C
@@ -13,7 +13,7 @@ can find intern before summer.
 * AngularJS
 * SQL
 
-##My Check List of 3250
+## My Check List of 3250
 
 - [x] Prsentation
 - [x] Class Activties + question
@@ -24,7 +24,7 @@ can find intern before summer.
 - [ ] Project
 - [x] Quiz
 
-##My Exam Timetable
+## My Exam Timetable
 
 Date | Course Title
 ---- | ------------------------------
